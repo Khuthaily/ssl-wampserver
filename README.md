@@ -1,4 +1,4 @@
-# ssl-wampserver
+# SSL on localhost - WampServer
 Create a local SSL certificate
 
 ## How to add SSL to WampServer and Enable `https://` in Google Chrome

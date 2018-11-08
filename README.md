@@ -126,3 +126,6 @@ Adjust the root directory of your project; in **Laravel**, this is the _public_ 
 
     RewriteCond %{HTTPS} !=on
     RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+    
+### Feedback
+Feedback is highly appreciated.
